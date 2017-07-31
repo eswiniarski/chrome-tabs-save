@@ -1,2 +1,2 @@
 # Tabs save
-This extension allows you export open tabls to file
+This is google chrome extension which allows you export open tabls to file
